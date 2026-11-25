@@ -1,6 +1,26 @@
-# what-i-learn
+# Daily Learning Log
 
-nov 16 2026 
---- websocket vs webRTC
---- whatsapp systemdesign
---- milk water mixture problems
+A personal journal documenting what I learn, explore, and build as I grow as a software engineer.
+
+This repository is my record of continuous learning. I use it to document technical concepts, new tools, ideas, experiments, projects, mistakes, and things I understand along the way.
+
+## Topics
+
+- Data Structures & Algorithms
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Generative AI & AI Agents
+- Backend Development
+- Cloud & DevOps
+- System Design
+- Technical concepts and experiments
+
+## 2026
+
+### November
+
+- [November 25](2026/November/2026-11-25.md) — Agentic Coding vs Vibe Coding
+
+---
+
+> Consistency over perfection. Document what I learn, one day at a time.
