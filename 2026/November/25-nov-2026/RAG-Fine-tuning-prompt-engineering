@@ -1,9 +1,21 @@
-**RAG vs Fine-tuning Vs prompt engineering**- 
+# RAG vs Fine-Tuning vs Prompt Engineering
 
-- using RAG, we give LLM external data 
+## RAG (Retrieval-Augmented Generation)
+- Provides an LLM with external information at inference time.
+- Allows the model to use retrieved data to answer questions.
 
--- Using fine-Tuning we train the model on specific tasks 
+## Fine-Tuning
+- Trains a pretrained model further using task-specific data.
+- Adjusts the model's weights to improve its behavior or performance.
 
--- using prompt engineering, we restrict the output
+## Prompt Engineering
+- Uses instructions, context, examples, and constraints to guide the LLM's output.
+- Helps control the model's behavior, response format, and style.
 
-- [RAG vs Fine-Tuning vs Prompt Engineering](https://youtu.be/zYGDpG-pTho)
+## Key Difference
+- **RAG:** Provides external knowledge.
+- **Fine-Tuning:** Changes learned behavior through additional training.
+- **Prompt Engineering:** Guides output through instructions.
+
+## Resource
+- [RAG vs Fine-Tuning vs Prompt Engineering — Video](https://youtu.be/zYGDpG-pTho)
