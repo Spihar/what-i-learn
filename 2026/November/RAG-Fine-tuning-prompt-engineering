@@ -1,0 +1,7 @@
+**RAG vs Fine-tuning Vs prompt engineering**-
+
+- using RAG, we give LLM external data 
+
+-- Using fine-Tuning we train the model on specific tasks 
+
+-- using prompt engineering, we restrict the output
