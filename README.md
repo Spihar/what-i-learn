@@ -19,7 +19,7 @@ This repository is my record of continuous learning. I use it to document techni
 
 ### November
 
-- [November 25](2026/November/2026-11-25.md) — Agentic Coding vs Vibe Coding, RAG vs Fine-tuning vs Prompt engineering
+- [November 25](2026/November/25-nov-2026) — Agentic Coding vs Vibe Coding, RAG vs Fine-tuning vs Prompt engineering
 
 ---
 
