@@ -21,6 +21,7 @@ This repository is my record of continuous learning. I use it to document techni
 
 - [November 25](2026/November/25-nov-2026) — Agentic Coding vs Vibe Coding, RAG vs Fine-tuning vs Prompt engineering
 - [November 26](2026/November/26-nov-2026) - TF-IDF, BM25, semantic search
+- [November 27](2026/November/27-nov-2026) - Kafka
 
 ---
 
